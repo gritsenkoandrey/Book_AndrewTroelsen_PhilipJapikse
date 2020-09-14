@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{CE2E3190-CE30-4B73-BD9E-F0D383F9A305}</ProjectGuid>
+    <ProjectGuid>{C2E458CE-E2BF-4867-B654-E0A6DF2330B3}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>CarDelegate</RootNamespace>
-    <AssemblyName>CarDelegate</AssemblyName>
+    <RootNamespace>GenericDelegate</RootNamespace>
+    <AssemblyName>GenericDelegate</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Car.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

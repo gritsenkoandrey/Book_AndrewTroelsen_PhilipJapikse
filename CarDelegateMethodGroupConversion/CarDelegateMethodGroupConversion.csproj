@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{CE2E3190-CE30-4B73-BD9E-F0D383F9A305}</ProjectGuid>
+    <ProjectGuid>{0957C853-65FA-47A0-ABCE-F19DD7EE7B04}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>CarDelegate</RootNamespace>
-    <AssemblyName>CarDelegate</AssemblyName>
+    <RootNamespace>CarDelegateMethodGroupConversion</RootNamespace>
+    <AssemblyName>CarDelegateMethodGroupConversion</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
